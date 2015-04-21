@@ -6,6 +6,6 @@ readme.txt
 
 	I have included a sample "testing.txt" so you can match the address format (the street address, without city or zip code). 
 
-	Then run scraper_tester.py and you will get two text files as your output: latitude.txt, longitude.txt. Simply copy those coordinates into the excel spreadsheet. 
+	Then run converter_tester.py and you will get two text files as your output: latitude.txt, longitude.txt. Simply copy those coordinates into the excel spreadsheet. 
 
 Note: Python and appropriate package installations are necessary. 
